@@ -22,6 +22,7 @@ namespace TechJobsOO
                 Console.WriteLine(job);
             }
             */
+            new PositionType("jorb").ToString();
         }
     }
 }
