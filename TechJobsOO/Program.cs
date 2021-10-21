@@ -23,6 +23,7 @@ namespace TechJobsOO
             }
             */
             new PositionType("jorb").ToString();
+            new Job("Name", new Employer(), new Location(), new PositionType(), new CoreCompetency());
         }
     }
 }
