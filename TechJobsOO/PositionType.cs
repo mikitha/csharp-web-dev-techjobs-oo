@@ -21,9 +21,9 @@ namespace TechJobsOO
         // TODO: Add custom Equals(), GetHashCode(), and ToString() methods.
         public override string ToString()
         {
-            string v = Value.ToString();
-            Console.WriteLine(v);
-            return v;
+            //string v = Value.ToString();
+            //Console.WriteLine(v);
+            return Value;
         }
 
         public override bool Equals(object obj)
